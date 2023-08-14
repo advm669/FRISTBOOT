@@ -1,0 +1,11 @@
+.modal.fade.show {
+    backdrop-filter: blur(5px);
+}
+.brandGradient
+{
+    background: #093180;
+background: linear-gradient(to bottom right, #093180 0%, #0CC9CF 100%);
+
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
